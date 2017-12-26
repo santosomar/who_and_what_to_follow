@@ -1,4 +1,4 @@
-# Who to Follow and What News, Blogs, Sites, IRC Channels to Follow Related to Cyber Security
+# Who and What (News, Blogs, Sites, IRC Channels) to Follow Related to Cyber Security
 
 One of the questions I often get from folks that are just getting started in cyber security, is "Who do you recommending following on Twitter and what news, blogs, IRC channels, etc. do you follow?"
 
