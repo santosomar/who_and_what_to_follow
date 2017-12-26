@@ -154,6 +154,7 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * @SwiftOnSecurity
 * @talossecurity
 * @taosecurity
+* @taviso
 * @thegrugq
 * @TiffanyRad
 * @tqbf
