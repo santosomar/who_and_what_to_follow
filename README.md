@@ -131,6 +131,7 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * @nicolasbrulez
 * @nicoleperlroth
 * @nudehaberdasher
+* @offsectraining
 * @PatrickCMiller
 * @PaulCoggin
 * @peterwsinger
