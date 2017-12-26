@@ -41,6 +41,7 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * Softpedia - http://www.softpedia.com/
 * SpiderLabs Security Blog - https://www.trustwave.com/Resources/SpiderLabs-Blog
 * Symantec's Blog: https://www.symantec.com/connect/blogs
+* TALOS: https://www.talosintelligence.com/
 * Tao Security - https://taosecurity.blogspot.com
 * Techcrunch - https://techcrunch.com/tag/security
 * Techworld Security - http://www.techworld.com/security
@@ -83,6 +84,8 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * @DaveAtErrata
 * @DaveMarcus
 * @daveshackleford
+* @DhiaLite
+* @DidierStevens
 * @dinodaizovi
 * @djrbliss
 * @dlitchfield
@@ -103,7 +106,7 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * @jeromesegura
 * @jesperjurcenoks
 * @jjx
-* @jjx
+* @JoelEsler
 * @JohnBristowe
 * @jonoberheide
 * @joshcorman
@@ -112,7 +115,11 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * @kernelpool
 * @kevinmitnick
 * @KristinPaget
+* @kpyke
 * @Luis_Corrons
+* @malwareunicorn
+* @MalwareJake
+* @MalwareTechBlog
 * @marcwrogers
 * @mattblaze
 * @matthew_d_green
@@ -134,8 +141,10 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * @ryanaraine
 * @s7ephen
 * @santosomar
+* @SeanAMason
 * @schneierblog
 * @SecBarbie
+* @security_craig
 * @SecurityExpert
 * @securityshell
 * @securityweekly
@@ -143,10 +152,13 @@ Let's make a comprehensive list here. If you do not use GitHub, just send me a m
 * @stephenfewer
 * @StewartRoom
 * @SwiftOnSecurity
+* @talossecurity
 * @taosecurity
 * @thegrugq
 * @TiffanyRad
 * @tqbf
 * @troyhunt
+* @SecurityBeard
 * @WeldPond
 * @WTFuzz
+* @Zulfikar_Ramzan
