@@ -38,9 +38,10 @@
 * Tao Security - https://taosecurity.blogspot.com
 * Techcrunch - https://techcrunch.com/tag/security
 * Techworld Security - http://www.techworld.com/security
+* The Art of Hacking courses GitHub repository - https://github.com/The-Art-of-Hacking/art-of-hacking
 * The Guardian Information Security Hub - https://www.theguardian.com/technology/data-computer-security
 * The Hacker News - http://thehackernews.com
-* The Register - http://www.theregister.co.uk/
+* The Register - http://www.theregister.co.uk
 * ThreatPost: https://threatpost.com
 * Troy Hunt - https://www.troyhunt.com
 * US-CERT - https://www.us-cert.gov
