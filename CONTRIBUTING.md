@@ -1,0 +1,4 @@
+# Public Participation and Contributions Invited!
+My goal is that this repository to become a community public repository that supports participation by anyone. Please feel free to use the familiar [fork-and-pull collaboration model](https://help.github.com/articles/about-pull-requests/) supported by GitHub and other distributed version-control systems. Any GitHub user wishing to contribute should fork the repository, make additions or other modifications, and then submit a pull request. GitHub pull requests should be accompanied by supporting comments and/or issues. Community conversations about pull requests, supported by GitHub notifications, will provide good context to merge, modify, close, or take other action.
+
+Questions or comments about this Open Repository's activities should be composed as GitHub issues or comments.
