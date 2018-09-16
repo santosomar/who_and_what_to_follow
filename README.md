@@ -2,7 +2,10 @@
 
 One of the questions I often get from folks that are just getting started in cyber security, is "Who do you recommend following on Twitter and what news, blogs or any other sources do you follow?"
 
-Let's make a comprehensive list here. If you do not use GitHub, just send me a message or create an issue here. Feel free to do a pull request and contribute to the lists.
+## The Art of Hacking GitHub Repository
+I strongly suggest for you to become familiar (and/or "star") [The Art of Hacking GitHub Repository](https://github.com/The-Art-of-Hacking/art-of-hacking)!
+
+[The Art of Hacking](https://theartofhacking.org) is a series of video courses and live training sessions with the goal of providing a guide to help you get up and running with your cybersecurity career.  I created [The Art of Hacking GitHub Repository](https://github.com/The-Art-of-Hacking/art-of-hacking) to provide supplemental material, tons of references, scripts, and code that help you build your own hacking environment, examples of real-life penetration testing reports, DFIR, vuln research, exploit development, reverse engineering, and more. It now has over 6,000 references!
 
 ## Cyber Security Blogs to Follow
 (sorted alphabetically)
