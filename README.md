@@ -2,6 +2,7 @@
 
 One of the questions I often get from folks that are just getting started in cyber security, is "Who do you recommend following on Twitter and what news, blogs or any other sources do you follow?"
 
+
 ## The Art of Hacking GitHub Repository
 I strongly suggest for you to become familiar (and/or "star") [The Art of Hacking GitHub Repository](https://github.com/The-Art-of-Hacking/art-of-hacking)!
 
@@ -190,3 +191,11 @@ I strongly suggest for you to become familiar (and/or "star") [The Art of Hackin
 * @WeldPond
 * @WTFuzz
 * @Zulfikar_Ramzan
+
+# Podcasts)
+
+- [Security Weekly](https://securityweekly.com/)
+- [Beer with Talos](https://www.talosintelligence.com/podcasts)
+- [Risky Business](https://risky.biz/netcasts/risky-business/)
+- [The Cyber Wire](https://www.thecyberwire.com/podcasts/)
+- [Darknet Diaries](https://darknetdiaries.com/)
